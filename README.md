@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tmcw/get-pixels-canvas.png)](https://travis-ci.org/tmcw/get-pixels-canvas)
+
 ## get-pixels
 
 Like [get-pixels](https://github.com/mikolalysenko/get-pixels), but uses
